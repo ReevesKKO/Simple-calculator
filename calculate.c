@@ -56,3 +56,4 @@ Calculate(float Numeral, char Operation[4])
       return(HUGE_VAL);
     }
 }
+//
